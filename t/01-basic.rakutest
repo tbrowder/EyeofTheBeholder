@@ -1,0 +1,6 @@
+use Test;
+use EyeofTheBeholder;
+
+pass "replace me";
+
+done-testing;

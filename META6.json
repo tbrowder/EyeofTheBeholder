@@ -1,0 +1,25 @@
+{
+  "auth": "zef:tbrowder",
+  "authors": [
+    "Tom Browder"
+  ],
+  "build-depends": [
+  ],
+  "depends": [
+  ],
+  "description": "A fork of HolyGhost's EyeofTheBeholder",
+  "license": "Artistic-2.0",
+  "name": "EyeofTheBeholder",
+  "perl": "6.d",
+  "provides": {
+    "EyeofTheBeholder": "lib/EyeofTheBeholder.rakumod"
+  },
+  "resources": [
+  ],
+  "source-url": "",
+  "tags": [
+  ],
+  "test-depends": [
+  ],
+  "version": "0.0.1"
+}
