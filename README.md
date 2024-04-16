@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/tbrowder/EyeofTheBeholder/actions/workflows/linux.yml/badge.svg)](https://github.com/tbrowder/EyeofTheBeholder/actions) [![Actions Status](https://github.com/tbrowder/EyeofTheBeholder/actions/workflows/macos.yml/badge.svg)](https://github.com/tbrowder/EyeofTheBeholder/actions) [![Actions Status](https://github.com/tbrowder/EyeofTheBeholder/actions/workflows/windows.yml/badge.svg)](https://github.com/tbrowder/EyeofTheBeholder/actions)
+
 NAME
 ====
 

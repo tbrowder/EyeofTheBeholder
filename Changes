@@ -2,3 +2,8 @@ Revision history for EyeofTheBeholder
 
 {{$NEXT}}
     - Initial version
+    - Started with a copy of the original code at its version 0.1.2.
+    - Modified it:
+      + renamed module files to have .rakumod extensions instead of .pm6
+      + added files for management by App::Mi6 wit 3-OS workflows testing
+      + corrrected a test error with the version 0.1.2 source (issue #1 on Github)

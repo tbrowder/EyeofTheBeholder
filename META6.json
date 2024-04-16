@@ -1,25 +1,43 @@
 {
+  "api": "1",
   "auth": "zef:tbrowder",
   "authors": [
+    "The Holy Ghost",
     "Tom Browder"
   ],
   "build-depends": [
   ],
   "depends": [
   ],
-  "description": "A fork of HolyGhost's EyeofTheBeholder",
-  "license": "Artistic-2.0",
+  "description": "A fork of HolyGhost's 'EyeofTheBeholder' Raku module on CPAN",
+  "license": "General Public License 2, Artistic-2.0",
   "name": "EyeofTheBeholder",
-  "perl": "6.d",
+  "perl": "6.c",
   "provides": {
-    "EyeofTheBeholder": "lib/EyeofTheBeholder.rakumod"
+    "EyeofTheBeholder": "lib/EyeofTheBeholder.rakumod",
+    "EyeofTheBeholder::DnD": "lib/EyeofTheBeholder/DnD.rakumod",
+    "EyeofTheBeholder::DnDDungeonWallGraphic": "lib/EyeofTheBeholder/DnDDungeonWallGraphic.rakumod",
+    "EyeofTheBeholder::DnDEntityGraphic": "lib/EyeofTheBeholder/DnDEntityGraphic.rakumod",
+    "EyeofTheBeholder::DnDGraphic": "lib/EyeofTheBeholder/DnDGraphic.rakumod",
+    "EyeofTheBeholder::DnDImage": "lib/EyeofTheBeholder/DnDImage.rakumod",
+    "EyeofTheBeholder::DnDImageAdapter": "lib/EyeofTheBeholder/DnDImageAdapter.rakumod",
+    "EyeofTheBeholder::DnDImageButtonWidget": "lib/EyeofTheBeholder/DnDImageButtonWidget.rakumod",
+    "EyeofTheBeholder::DnDImageButtonWidgetWHCalculator": "lib/EyeofTheBeholder/DnDImageButtonWidgetWHCalculator.rakumod",
+    "EyeofTheBeholder::DnDImageWrapper": "lib/EyeofTheBeholder/DnDImageWrapper.rakumod",
+    "EyeofTheBeholder::DnDImlib": "lib/EyeofTheBeholder/DnDImlib.rakumod",
+    "EyeofTheBeholder::DnDLeftWallGraphic": "lib/EyeofTheBeholder/DnDLeftWallGraphic.rakumod",
+    "EyeofTheBeholder::DnDRightWallGraphic": "lib/EyeofTheBeholder/DnDRightWallGraphic.rakumod",
+    "EyeofTheBeholder::DnDUpWallGraphic": "lib/EyeofTheBeholder/DnDUpWallGraphic.rakumod",
+    "EyeofTheBeholder::DnDWidget": "lib/EyeofTheBeholder/DnDWidget.rakumod",
+    "EyeofTheBeholder::DnDWidgetWHCalculator": "lib/EyeofTheBeholder/DnDWidgetWHCalculator.rakumod"
   },
   "resources": [
   ],
-  "source-url": "",
+  "source-url": "https://github.com/tbrowder/EyeofTheBeholder.git",
   "tags": [
+    "EyeofTheBeholder"
   ],
   "test-depends": [
   ],
-  "version": "0.0.1"
+  "version": "0.1.2"
 }

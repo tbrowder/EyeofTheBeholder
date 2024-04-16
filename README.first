@@ -17,4 +17,7 @@ The original files were placed in directory
 ./original-files while their replacements are
 in the conventional locattions.
 
+After commiting the original files, names were
+changed as needed to comply with modern Raku
+naming conventions.
 
