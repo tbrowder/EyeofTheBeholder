@@ -1,0 +1,7 @@
+=begin EyeofTheBeholder 
+
+=head1 DnD : Eye of The Beholder Game 
+
+This is an implementation of Eye of the Beholder, a Dungeons and Dragons game.
+
+=end

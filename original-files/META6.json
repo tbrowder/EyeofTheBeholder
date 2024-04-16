@@ -1,0 +1,36 @@
+{
+        "perl" : "6.c",
+        "name" : "EyeofTheBeholder",
+        "auth" : "CPAN:HOLYGHOST",
+        "api" : "1",
+        "version" : "0.1.2",
+        "description" : "A D&D : Eye of the Beholder game (system) written in Raku. Not a full game. Includes a widget kit.",
+        "authors" : [ "The Holy Ghost" ],
+        "license" : "General Public License 2, Artistic-2.0",
+        "provides" : {
+            "EyeofTheBeholder::DnDWidget" : "lib/EyeofTheBeholder/DnDWidget.pm6",
+            "EyeofTheBeholder::DnDWidgetWHCalculator" : "lib/EyeofTheBeholder/DnDWidgetWHCalculator.pm6",
+            "EyeofTheBeholder::DnDImageButtonDWidget" : "lib/EyeofTheBeholder/DnDImageButtonWidget.pm6",
+            "EyeofTheBeholder::DnDImageButtonDWidgetWHCalculator" : "lib/EyeofTheBeholder/DnDImageButtonWidgetWHCalculator.pm6",
+            "EyeofTheBeholder::DnD" : "lib/EyeofTheBeholder/DnD.pm6",
+            "EyeofTheBeholder::DnDDungeonWallGraphic" : "lib/EyeofTheBeholder/DnDDungeonWallGraphic.pm6",
+            "EyeofTheBeholder::DnDEntityGraphic" : "lib/EyeofTheBeholder/DnDEntityGraphic.pm6",
+            "EyeofTheBeholder::DnDGraphic" : "lib/EyeofTheBeholder/DnDGraphic.pm6",
+            "EyeofTheBeholder::DnDImage" : "lib/EyeofTheBeholder/DnDImage.pm6",
+            "EyeofTheBeholder::DnDImageAdapter" : "lib/EyeofTheBeholder/DnDImageAdapter.pm6",
+            "EyeofTheBeholder::DnDImageWrapper" : "lib/EyeofTheBeholder/DnDImageWrapper.pm6",
+            "EyeofTheBeholder::DnDImlib" : "lib/EyeofTheBeholder/DnDImlib.pm6",
+            "EyeofTheBeholder::DnDLeftWallGraphic" : "lib/EyeofTheBeholder/DnDLeftWallGraphic.pm6",
+            "EyeofTheBeholder::DnDRightWallGraphic" : "lib/EyeofTheBeholder/DnDRightWallGraphic.pm6",
+            "EyeofTheBeholder::DnDUpWallGraphic" : "lib/EyeofTheBeholder/DnDUpWallGraphic.pm6"
+        },
+        "depends" : [ ],
+        "build-depends" : [ ],
+        "test-depends" : [ ],
+        "resources" : [ ],
+        "tags": [
+          "EyeofTheBeholder"
+        ],
+        "source-url" : "http://cpan.metacpan.org/authors/id/H/HO/HOLYGHOST/Perl6/EyeofTheBeholder-0.1.2.tar.gz"
+
+}

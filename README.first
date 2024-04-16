@@ -1,0 +1,20 @@
+This module was converted to be managed by
+App::Mi6 and put in a modern format to
+be published in the Zef/Fez archival system.
+
+The structure was instantiated by Mi::Helper's
+bin file (mi6-helped) and then the original
+source code was added to it.
+
+The three files created by mi6-helper that
+conflicted with the original files are:
+
++ META6.json
++ README.md
++ LICENSE
+
+The original files were placed in directory
+./original-files while their replacements are
+in the conventional locattions.
+
+
